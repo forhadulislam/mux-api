@@ -1,2 +1,2 @@
-## GO RST API with Gorilla
+## GO REST API with Gorilla
 
